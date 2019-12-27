@@ -8,7 +8,12 @@ package com.github.qinpeng2.ap.leetcode;
  *     ListNode(int x) { val = x; }
  * }
  */
-public class Solution2_AddTwoNumbers {
+/**
+ * 考察点：数据结构的使用
+ * 重要思路：逆序是一个重要的提示，因为我们手动计算加法是就是从低位到高位的逆向计算的
+ * 解题思路：按位计算，注意进位
+ */
+public class S0002_AddTwoNumbers {
 
 
     public static class ListNode {

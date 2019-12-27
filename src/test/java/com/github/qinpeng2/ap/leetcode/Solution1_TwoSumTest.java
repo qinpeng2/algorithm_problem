@@ -8,7 +8,7 @@ import static org.junit.Assert.*;
 
 public class Solution1_TwoSumTest {
 
-    Solution1_TwoSum solution = new Solution1_TwoSum();
+    S0001_TwoSum solution = new S0001_TwoSum();
 
     @Test
     public void twoSum1() {
