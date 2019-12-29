@@ -20,3 +20,17 @@
     >**Solution:** [com.github.qinpeng2.qp.leetcode.S0003_LongestSubstringWithoutRepeatingCharacters](https://github.com/qinpeng2/algorithm_problem/blob/master/src/main/java/com/github/qinpeng2/ap/leetcode/S0003_LongestSubstringWithoutRepeatingCharacters.java)
 
 ## NewCoder
+### 华为
++ [汽水瓶](https://www.nowcoder.com/questionTerminal/fe298c55694f4ed39e256170ff2c205f)
+>**Solution:** [com.github.qinpeng2.ap.nowcoder.huawei.BottleDrinkExchange](https://github.com/qinpeng2/algorithm_problem/blob/master/src/main/java/com/github/qinpeng2/ap/nowcoder/huawei/BottleDrinkExchange.java)
+
++ [明明的随机数](https://www.nowcoder.com/questionTerminal/3245215fffb84b7b81285493eae92ff0)
+>**Solution:** [com.github.qinpeng2.ap.nowcoder.huawei.Survey](https://github.com/qinpeng2/algorithm_problem/blob/master/src/main/java/com/github/qinpeng2/ap/nowcoder/huawei/Survey.java)
+
++ [进制转换](https://www.nowcoder.com/questionTerminal/8f3df50d2b9043208c5eed283d1d4da6)
+>**Solution:** [com.github.qinpeng2.ap.nowcoder.huawei.HexConverter](https://github.com/qinpeng2/algorithm_problem/blob/master/src/main/java/com/github/qinpeng2/ap/nowcoder/huawei/HexConverter.java)
+
++ [最高分是多少](https://www.nowcoder.com/questionTerminal/3897c2bcc87943ed98d8e0b9e18c4666)
+>**Solution:** [com.github.qinpeng2.ap.nowcoder.huawei.HighScore](https://github.com/qinpeng2/algorithm_problem/blob/master/src/main/java/com/github/qinpeng2/ap/nowcoder/huawei/HighScore.java)
+
+
