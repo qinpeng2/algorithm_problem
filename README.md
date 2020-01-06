@@ -18,6 +18,8 @@
     >**Solution:** [com.github.qinpeng2.qp.leetcode.S0002_AddTwoNumbers](https://github.com/qinpeng2/algorithm_problem/blob/master/src/main/java/com/github/qinpeng2/ap/leetcode/S0002_AddTwoNumbers.java)
 + [3. Longest Substring Without Repeating Characters  ](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
     >**Solution:** [com.github.qinpeng2.qp.leetcode.S0003_LongestSubstringWithoutRepeatingCharacters](https://github.com/qinpeng2/algorithm_problem/blob/master/src/main/java/com/github/qinpeng2/ap/leetcode/S0003_LongestSubstringWithoutRepeatingCharacters.java)
++ [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
+    >**Solution:** [com.github.qinpeng2.qp.leetcode.S0004_FindMedianSortedArrays](https://github.com/qinpeng2/algorithm_problem/blob/master/src/main/java/com/github/qinpeng2/ap/leetcode/S0004_FindMedianSortedArrays.java)
 
 ## NewCoder
 ### 华为
